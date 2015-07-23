@@ -13,3 +13,7 @@ Happy chatting.
 
 
 PS: [Click here](https://gitter.im/settings/badger/opt-out) if you would prefer not to receive automatic pull-requests from Gitter in future.
+
+请加入QQ群：257534530
+
+问问题请在issue里面提，用markdown，如果有代码，请使用[```scala 代码```] 或者[```java 代码````]将其高亮
