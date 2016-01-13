@@ -1,19 +1,19 @@
-### AkkaChina/usergroup now has a Chat Room on Gitter
+#Reactive Platfrom 中国用户组
 
-@hepin1989 has just created a chat room. You can visit it here: [https://gitter.im/AkkaChina/usergroup](https://gitter.im/AkkaChina/usergroup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&content=body_link).
+##前身
+本组织以前是AKKAChina 用户组，随着加入成员的越来越多，以及涉及到的行业越来越广，交流起来涉及到的主题自然也就越来越广泛了，
+已经远远地超出了AKKA本身的范畴，同时AKKA及其他部分在整个系统架构和实际当中只是作为一个环节，所以作为群主我觉得我们应该有更广阔一个平台来讨论。
 
-This pull-request adds this badge to your README.md:
+##为何叫做UserGroupCN
+因为这个ReactivePlatform在Github上毕竟是公共资源，为了避免资源浪费以及被认为是恶意注册，这里采用UserGroupCN的方式来标示中国的用户组。
 
+##Gitter？
+暂时因为大家平时都是用的QQ交流较多，之前在gitter上有用过，但是效果不是特别好。
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AkkaChina/usergroup?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
+##后续计划？
+我将会在这里统一资源，如果发展的好的话，可以在空余的适合，大家可以组织MeetUp。
 
-If my aim is a little off, please [let me know](https://github.com/gitterHQ/readme-badger/issues).
-
-Happy chatting.
-
-
-PS: [Click here](https://gitter.im/settings/badger/opt-out) if you would prefer not to receive automatic pull-requests from Gitter in future.
+##本Repo的作用
+这里将不在接收akka问题的回答，而是作为一个PlaceHolder以及在以后记录一下线上/线下的MeetUp情况。
 
 请加入QQ群：257534530
-
-问问题请在issue里面提，用markdown，如果有代码，请使用[```scala 代码```] 或者[```java 代码````]将其高亮
