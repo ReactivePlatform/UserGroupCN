@@ -19,8 +19,9 @@
 可以加入QQ群：257534530 （Reactive Platfrom Built With Akka,Reactive Design & Industry Solution.）
 
 群名片格式：地区-行业-昵称(+/-/=/！)
-
+```
 + Reactive Now
 ！Adopting
 = Waiting
 - Repudiating
+```
