@@ -16,4 +16,11 @@
 ##本Repo的作用
 这里将不在接收akka问题的回答，而是作为一个PlaceHolder以及在以后记录一下线上/线下的MeetUp情况。
 
-请加入QQ群：257534530
+可以加入QQ群：257534530 （Reactive Platfrom Built With Akka,Reactive Design & Industry Solution.）
+
+群名片格式：地区-行业-昵称(+/-/=/！)
+
++ Reactive Now
+！Adopting
+= Waiting
+- Repudiating
